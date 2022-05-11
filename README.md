@@ -18,7 +18,6 @@
 <a href="https://www.instagram.com/voicesinkorea/">
   <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="64" height="64" />
 </a>
-</p>
   
 НЕТ ВОЙНЕ!
 </p>
