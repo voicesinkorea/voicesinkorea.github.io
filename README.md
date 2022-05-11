@@ -20,4 +20,4 @@
 </a>
 </p>
 
-<H1 align="center">НЕТ ВОЙНЕ!</H1>
+<p align="center">НЕТ ВОЙНЕ!</p>
