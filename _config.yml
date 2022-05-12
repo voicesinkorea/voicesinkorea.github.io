@@ -1,2 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Voices in Korea
+github:
+  is_project_page: false
