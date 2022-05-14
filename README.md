@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://www.voicesinkorea.kr">
+<a href="https://www.voicesinkorea.kr/kr/">
   <img src="assets/kor_flag.png" height="32" alt="한국어" />
 </a>
 </p>
