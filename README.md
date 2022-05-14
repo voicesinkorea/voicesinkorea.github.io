@@ -1,8 +1,8 @@
-<p align="right">
+<!--<p align="right">
 <a href="https://www.voicesinkorea.kr/kr/">
   한국어
 </a>
-</p>
+</p>-->
 
 <p align="center"><b>Россияне против войны</b></p>
 
