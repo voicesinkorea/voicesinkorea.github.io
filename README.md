@@ -1,6 +1,7 @@
-<!--<p align="right">
-<a href="https://www.voicesinkorea.kr/kr/">
-  한국어
+<!--
+<p align="right">
+<a href="https://www.voicesinkorea.kr">
+  <img src="../assets/kor_flag.png" height="32" alt="한국어" />
 </a>
 </p>-->
 
