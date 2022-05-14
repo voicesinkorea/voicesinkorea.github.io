@@ -1,6 +1,6 @@
 <p align="right">
 <a href="https://www.voicesinkorea.kr/kr/">
-  <img src="assets/kor_flag.png" height="32" alt="한국어" />
+  <img src="assets/kor_flag.png" height="36" alt="한국어" />
 </a>
 </p>
 
