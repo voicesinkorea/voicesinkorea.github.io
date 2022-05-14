@@ -1,9 +1,8 @@
-<!--
 <p align="right">
 <a href="https://www.voicesinkorea.kr">
-  <img src="../assets/kor_flag.png" height="32" alt="한국어" />
+  <img src="assets/kor_flag.png" height="32" alt="한국어" />
 </a>
-</p>-->
+</p>
 
 <p align="center"><b>Россияне против войны</b></p>
 
