@@ -3,11 +3,26 @@ layout: default
 permalink: /kr/
 ---
 
-<p align="right">
+<table border="0">
+  <tr>
+    <td>
+      <p align="left">
+        <a href="https://www.instagram.com/voicesinkorea/">
+          <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="36" height="36" /> Instagram
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="right"><a href="https://www.voicesinkorea.kr/kr/"><img src="assets/kor_flag.png" height="36" alt="한국어" /> 한국어</a></p>
+    </td>
+  </tr>
+</table>
+<!--<p align="right">
 <a href="https://www.voicesinkorea.kr">
   <img src="../assets/new_flag.png" height="32" alt="Версия на русском" /> русский
 </a>
 </p>
+-->
 
 <p align="center"><b>전쟁에 반대하는 러시아 사람들</b></p>
 
