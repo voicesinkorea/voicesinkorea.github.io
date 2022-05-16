@@ -13,7 +13,7 @@ permalink: /kr/
       </p>
     </td>
     <td>
-      <p align="right"><a href="https://www.voicesinkorea.kr/"><img src="assets/new_flag.png" height="36" alt="русский" /> Русский</a></p>
+      <p align="right"><a href="https://www.voicesinkorea.kr/"><img src="../assets/new_flag.png" height="32" alt="русский" /> Русский</a></p>
     </td>
   </tr>
 </table>
