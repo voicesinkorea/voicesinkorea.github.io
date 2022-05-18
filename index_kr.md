@@ -7,7 +7,7 @@ permalink: /kr/
   <tr>
     <td>
       <p align="left">
-        <a href="https://supportukrainenow.org/">우크라이나 구해주세요</a>
+        <a href="https://supportukrainenow.org/">우크라이나를 구해주세요</a>
         <br>
         <a href="https://www.instagram.com/voicesinkorea/">
           Instagram <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="28" height="28" />
@@ -26,7 +26,7 @@ permalink: /kr/
 </p>
 -->
 
-<p align="center"><b>전쟁에 반대하는 러시아 사람들</b></p>
+<p align="center"><b>전쟁에 반대하는 러시아 사람들의 모임</b></p>
 
 우리는 블라디미르 푸틴의 파시스트 정권과 악행에 반대하는 러시아인들의 모임입니다. 우리는 자유와 민주주의를 지지합니다.
 
