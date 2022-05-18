@@ -11,7 +11,7 @@
         </a>
       </p>
     </td>
-    <td width="25%">
+    <td width="15%">
       <p align="right"><a href="https://www.voicesinkorea.kr/kr/"><img src="assets/kor_flag.png" height="36" alt="한국어" /> 한국어</a></p>
     </td>
     <td width="10%">
