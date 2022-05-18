@@ -12,7 +12,7 @@
       </p>
     </td>
     <td width="20%">
-      <p align="right"><a href="https://www.voicesinkorea.kr/kr/"><img src="assets/kor_flag.png" height="36" alt="한국어" /><br>한국어</a></p>
+      <p align="right"><a href="https://www.voicesinkorea.kr/kr/"><img src="assets/kor_flag.png" height="32" alt="한국어" /><br>한국어</a></p>
     </td>
     <td width="10%">
       <p align="right"><a href="https://www.voicesinkorea.kr/en/"><img src="../assets/usa_flag.png" height="32" alt="english" /> English</a></p>
