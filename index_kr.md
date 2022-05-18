@@ -14,11 +14,11 @@ permalink: /kr/
         </a>
       </p>
     </td>
-    <td width="150">
+    <td width="10%">
       <p align="right"><a href="https://www.voicesinkorea.kr/"><img src="../assets/new_flag.png" height="32" alt="русский" /> Русский</a></p>
     </td>
-    <td width="150">
-      <p align="right"><a href="https://www.voicesinkorea.kr/kr/"><img src="../assets/usa_flag.png" height="32" alt="english" /> English</a></p>
+    <td width="10%">
+      <p align="right"><a href="https://www.voicesinkorea.kr/en/"><img src="../assets/usa_flag.png" height="32" alt="english" /> English</a></p>
     </td>
   </tr>
 </table>
