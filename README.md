@@ -3,8 +3,12 @@
   <tr>
     <td>
       <p align="left">
+        <a href="https://supportukrainenow.org/">Помощь Украине
+        </a>
+      </p>
+      <p align="left">
         <a href="https://www.instagram.com/voicesinkorea/">
-          <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="36" height="36" /> Instagram
+          <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="36" height="36" /> Наш Instagram
         </a>
       </p>
     </td>
@@ -14,13 +18,6 @@
   </tr>
 </table>
 
-<!--
-<p align="right">
-<a href="https://www.voicesinkorea.kr/kr/">
-  <img src="assets/kor_flag.png" height="36" alt="한국어" /> 한국어
-</a>
-</p>
--->
 
 <p align="center"><b>Россияне против войны</b></p>
 
