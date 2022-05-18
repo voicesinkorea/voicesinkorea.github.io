@@ -8,7 +8,7 @@
       </p>
       <p align="left">
         <a href="https://www.instagram.com/voicesinkorea/">
-          <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="36" height="36" /> Наш Instagram
+          Наш Instagram <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="28" height="28" />
         </a>
       </p>
     </td>
