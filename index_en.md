@@ -17,8 +17,12 @@ permalink: /en/
     <td>
       <p align="right"><a href="https://www.voicesinkorea.kr/"><img src="../assets/new_flag.png" height="32" alt="русский" /> Русский</a></p>
     </td>
+    <td>
+      <p align="right"><a href="https://www.voicesinkorea.kr/kr/"><img src="../assets/kor_flag.png" height="32" alt="한국어" /> 한국어</a></p>
+    </td>
   </tr>
 </table>
+
 <!--<p align="right">
 <a href="https://www.voicesinkorea.kr">
   <img src="../assets/new_flag.png" height="32" alt="Версия на русском" /> русский
