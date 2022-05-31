@@ -2,18 +2,18 @@
   <tr>
     <td>
       <p align="left">
-        <a href="https://supportukrainenow.org/">우크라이나에 도와주세요</a>
+        <a href="https://supportukrainenow.org/">우크라이나 도와주세요</a>
         <br>
         <a href="https://www.instagram.com/voicesinkorea/">
           Instagram <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="28" height="28" />
         </a>
       </p>
     </td>
-    <td width="10%">
-      <p align="right"><a href="https://www.voicesinkorea.kr/ru/"><img src="assets/new_flag.png" height="32" alt="русский" /> Русский</a></p>
+    <td width="8%">
+      <p align="center"><a href="https://www.voicesinkorea.kr/ru/"><img src="assets/new_flag.png" height="32" alt="русский" /><br>Русский</a></p>
     </td>
-    <td width="10%">
-      <p align="right"><a href="https://www.voicesinkorea.kr/en/"><img src="assets/usa_flag.png" height="32" alt="english" /> English</a></p>
+    <td width="8%">
+      <p align="center"><a href="https://www.voicesinkorea.kr/en/"><img src="assets/usa_flag.png" height="32" alt="english" /><br>English</a></p>
     </td>
   </tr>
 </table>
