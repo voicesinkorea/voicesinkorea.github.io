@@ -8,10 +8,10 @@ permalink: /en/
     <td>
       <p align="left">
         <a href="https://supportukrainenow.org/">HELP UKRAINE</a>
-        <br>
+        <!--<br>
         <a href="https://www.instagram.com/voicesinkorea/">
           Instagram <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="28" height="28" />
-        </a>
+        </a>-->
       </p>
     </td>
     <td width="25%">
