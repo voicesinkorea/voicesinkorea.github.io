@@ -20,7 +20,7 @@ permalink: /ru/
       <p align="right"><a href="https://www.voicesinkorea.kr/"><img src="../assets/kor_flag.png" height="32" alt="한국어" /><br>한국어</a></p>
     </td>
     <td width="10%">
-      <p align="right"><a href="https://www.voicesinkorea.kr/en/"><img src="../assets/usa_flag.png" height="32" alt="english" /> English</a></p>
+      <p align="right"><a href="https://www.voicesinkorea.kr/en/"><img src="../assets/usa_flag.png" height="32" alt="english" /><br>English</a></p>
     </td>
   </tr>
 </table>
