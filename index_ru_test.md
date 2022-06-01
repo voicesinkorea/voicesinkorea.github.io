@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 permalink: /test/
 ---
 
@@ -93,4 +93,4 @@ permalink: /test/
 </a>
 </p>
 
-<p align="center"><b>НЕТ ВОЙНЕ!</b></p>
+<p class="nowar"><b>НЕТ ВОЙНЕ!</b></p>

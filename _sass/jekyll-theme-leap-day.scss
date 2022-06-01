@@ -151,12 +151,19 @@ td {
 }
 
 .fact {
-  width:80%;
+  width:72%;
   text-align:left;
   padding:5px 10px;
   border: 1px solid #101010;
   margin-left: auto;
   margin-right: auto;
+}
+
+.nowar {
+  text-align:center;
+  padding:5px 10px;
+  color: #FF3333;
+  font-size: 16px;
 }
 
 hr {
@@ -174,7 +181,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 40px 20px;
+  padding: 25px 20px 32px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -420,7 +427,7 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin: 190px auto 20px;
-    max-width: 600px;
+    max-width: 720px;
   }
 
   footer{
