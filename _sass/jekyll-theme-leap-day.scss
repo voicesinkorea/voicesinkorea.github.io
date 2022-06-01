@@ -167,7 +167,8 @@ td {
 }
 
 hr {
-  border: 0;
+  border: 2;
+  color: #777777;
   outline: none;
   height: 11px;
  /* background: transparent url('../images/hr.gif') center center repeat-x;*/
@@ -197,6 +198,18 @@ header {
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #f3f3f3;
+    text-shadow: 0px 2px 0px #235796;
+    margin: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+  }
+
+  h2 {
+    font: 20px/24px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f3f3f3;
     text-shadow: 0px 2px 0px #235796;
     margin: 0px;
