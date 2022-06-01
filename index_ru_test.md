@@ -4,17 +4,17 @@ permalink: /test/
 ---
 
 
-<table border="0">
+<!-- <table border="0">
     <tr>
       <td>
-        <!--<p align="left">
+        <p align="left">
           <a href="https://supportukrainenow.org/">Помощь Украине
           </a>
           <br>
           <a href="https://www.instagram.com/voicesinkorea/">
             Наш Instagram <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="28" height="28" />
           </a>
-        </p>-->
+        </p>
       </td>
       <td width="25%">
         <p align="center"><a href="https://www.voicesinkorea.kr/"><img src="../assets/kor_flag.png" height="32" alt="한국어" /><br>한국어</a></p>
@@ -23,7 +23,7 @@ permalink: /test/
         <p align="center"><a href="https://www.voicesinkorea.kr/en/"><img src="../assets/usa_flag.png" height="32" alt="english" /><br>English</a></p>
       </td>
     </tr>
-</table>
+</table> -->
 
 <!-- <p align="center"><b>Россияне против войны</b></p> -->
 <b>Мы</b> - инициативная группа россиян, выступающая против фашистского режима Владимира Путина в России и против действий этого режима.<br>
