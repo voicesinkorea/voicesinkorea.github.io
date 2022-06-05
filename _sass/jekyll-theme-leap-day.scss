@@ -36,9 +36,15 @@ h1 {
   font-size:28px;
 }
 
-.h1span, .h1text {
+.h1text {
   vertical-align:middle;
-  display:table-cell;
+  // display:table-cell;
+  // text-align:center;
+}
+
+.h1img {
+  vertical-align:middle;
+  // display:table-cell;
 }
 
 h2 {
