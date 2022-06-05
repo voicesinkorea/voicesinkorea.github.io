@@ -6,13 +6,16 @@
 
   {% seo %}
   <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
-  <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <!-- <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script> -->
+  <!-- <script src="{{ '/assets/js/main.js' | relative_url }}"></script> -->
 
   <title>VOICES IN KOREA</title>
 
   <style type="text/css">
+    header {
+      margin: 0 20% 24px 20%;
+    }
+
     body {
       /* background:url(fon.png); */
       background-attachment: fixed;
@@ -21,7 +24,7 @@
 
     .warrussia {
       font-size: 40px;
-      font-family: Noto Sans, sans-serif;
+      font-family: "Times New Roman", Times, serif;
       line-height: 45px;
 
     }
@@ -56,6 +59,13 @@
       margin-bottom: 30px;
     }
 
+    hr {
+      border: 2;
+      color: #777777;
+      width:80%;
+      margin:0 10% 12px;
+    }
+
     a {
       text-decoration: none;
       font-family: Arial;
@@ -64,6 +74,7 @@
       font-size: 15px;
       line-height: 5px;
     } 
+
     a:hover { 
       text-decoration: none;
       color: gold;
@@ -83,43 +94,14 @@
 
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  {% include head-custom.html %}
 </head>
 
 <center><img src="../assets/voices_in_korea.jpg" width="65%"></center>
 
 <body>
-  asdfasdf;lkj
-  <!-- <style>
-    .warrussia {
-      font-size: 40px;
-      font-family: Noto Sans, sans-serif;
-      line-height: 45px;
-
-    }
-  </style>
-
-  <style>
-    .fontdesing {
-      font-size: 20px;
-      font-family: "Times New Roman", Times, serif;
-      line-height: 30px;
-    }
-  </style> -->
-<!-- <div class="fontdesing">
-  ;lkjcv09ul;jsd -->
-
-  <!-- <style type="text/css">
-    .p1 {
-      border: 3px solid black; 
-      padding: 5px; 
-      width: 38.5%;
-      margin: auto;
-      background: white;
-      text-align: center;
-      margin-bottom: 30px;
-    }
-  </style> -->
-
   <!-- <style type="text/css">
     .p2 {
       border: 0px solid white; 
@@ -135,9 +117,6 @@
       margin-bottom: 30px;
     }
 
-    header {
-      margin: 0 20% 24px 20%;
-    }
   </style> -->
 
 <div class="p2"><div data-aos="fade-down"><div class="warrussia">

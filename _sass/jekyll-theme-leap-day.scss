@@ -186,7 +186,8 @@ td {
 .langs {
   margin:0px;
   padding:0px;
-  font-size: 12px;
+  font-size:12px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .yellowbg {
@@ -201,9 +202,6 @@ td {
 hr {
   border: 2;
   color: #777777;
-  // outline: none;
-  // height: 11px;
- /* background: transparent url('../images/hr.gif') center center repeat-x;*/
   width:80%;
   margin:0 10% 12px;
 }

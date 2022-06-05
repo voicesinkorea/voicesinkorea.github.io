@@ -25,10 +25,11 @@ permalink: /test/
     </tr>
 </table> -->
 
+<center>
 <table border="0" width="63%">
   <tr valign="middle">
     <td width="30%">
-      <a href="https://supportukrainenow.org/">
+      <a href="https://supportukrainenow.org/" target="_blank">
         <img src="../assets/help_ru.png" height="48" />
       </a>
     </td>
@@ -41,6 +42,7 @@ permalink: /test/
     </td>
   </tr>
 </table>
+</center>
 
 
 <!-- <p align="center"><b>Россияне против войны</b></p> -->
@@ -80,8 +82,8 @@ permalink: /test/
 <hr>
 
 <p align="center">
-<a href="https://www.instagram.com/p/Cb9Zf3dL-AO/" target="_blank"><img src="../assets/20220514-091932.jpg" width="40%"/></a>&emsp;&emsp;
-<a href="https://www.instagram.com/p/Ca5H5qPhGjd/" target="_blank"><img src="../assets/20220514-091128.jpg" width="40%"/></a>
+<a href="https://www.instagram.com/p/Cb9Zf3dL-AO/" target="_blank"><img src="../assets/20220514-091932.jpg" width="28%"/></a>&emsp;&emsp;
+<a href="https://www.instagram.com/p/Ca5H5qPhGjd/" target="_blank"><img src="../assets/20220514-091128.jpg" width="28%"/></a>
 </p>
 
 <hr>
@@ -108,8 +110,8 @@ permalink: /test/
 <hr>
 
 <p align="center">
-<a href="https://www.instagram.com/p/CbFqv61pRBm/" target="_blank"><img src="../assets/20220514-091305.jpg" width="40%"/></a>&emsp;&emsp;
-<a href="https://www.instagram.com/p/CbaMH2oFigK/" target="_blank"><img src="../assets/20220514-091357.jpg" width="40%"/></a>
+<a href="https://www.instagram.com/p/CbFqv61pRBm/" target="_blank"><img src="../assets/20220514-091305.jpg" width="28%"/></a>&emsp;&emsp;
+<a href="https://www.instagram.com/p/CbaMH2oFigK/" target="_blank"><img src="../assets/20220514-091357.jpg" width="28%"/></a>
 </p>
 
 <hr>
