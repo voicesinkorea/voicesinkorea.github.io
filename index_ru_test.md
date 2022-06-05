@@ -4,9 +4,14 @@ permalink: /test/
 title: РОССИЯНЕ ПРОТИВ ВОЙНЫ
 ---
 
-<div data-aos="fade-down"><div class="p2">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="p2"></div><div data-aos="fade-down">
+    <p><b>Мы</b> - инициативная группа россиян, выступающая против фашистского режима <br> Владимира Путина в России и против действий этого режима. <b>Мы</b> - за свободу и демократию в России.<p>Решения, принятые Путиным, нарушали и продолжают грубо нарушать международные законы. Самыми яркими примерами тому являются: военный конфликт в Грузии, спровоцированный в 2008 году действиями России; аннексия Крыма в 2014 году; разжигание и поддержка сепаратистского движения в Юго-Восточной части Украины, результатом которой стала затяжная война в Донбассе.</p></p>
 </div></div>
+
+<div class="photo1"><p align="center">
+  <a href="https://www.instagram.com/p/CbrD7KMrMLR/" target="_blank"><img src="../assets/20220514-091636.jpg" width="28%"/></a>&emsp;&emsp;
+  <a href="https://www.instagram.com/p/CciKdwBLV0E/" target="_blank"><img src="../assets/20220514-092141.jpg" width="28%"/></a>
+</p></div>
 
 
 <!-- <div class="p2">
