@@ -165,7 +165,19 @@ td {
   text-align:center;
   padding:5px 10px;
   color: #FF3333;
-  font-size: 16px;
+  font-size: 18px;
+}
+
+.korean {
+  font-family: "Gowun Batang", Times, serif;
+}
+
+.yellowbg {
+  background: rgb(255, 215, 0);
+}
+
+.bluebg {
+  background: rgb(0, 87, 183);
 }
 
 hr {
@@ -377,9 +389,9 @@ nav {
           color: #333;
         }
 
-        + .tag-h2 {
+        // + .tag-h2 {
 
-        }
+        // }
       }
 
       &.tag-h2 {
@@ -443,8 +455,8 @@ footer {
         margin-right: 60px;
       }
 
-    .fork {
-    }
+    // .fork {
+    // }
 
     #logo {
       margin-right: 15px;
@@ -497,10 +509,9 @@ footer {
       float: left;
       display: inline-block;
       margin-left: 0px;
-    position:fixed;
-    left:20px;
-
-      }
+      position:fixed;
+      left:20px;
+    }
   }
 
   section {
@@ -515,8 +526,8 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
-  body {
-  }
+  // body {
+  // }
 
   header{
     position: relative;
