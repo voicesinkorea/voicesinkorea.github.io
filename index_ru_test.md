@@ -1,5 +1,5 @@
 ---
-layout: new_original_dont_edit
+layout: new
 permalink: /test/
 title: РОССИЯНЕ ПРОТИВ ВОЙНЫ
 custom: something

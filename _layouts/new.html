@@ -1,54 +1,41 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
- <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">   
-
-  {% seo %}
-  <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
-  <!-- <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script> -->
-  <!-- <script src="{{ '/assets/js/main.js' | relative_url }}"></script> -->
-
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>VOICES IN KOREA</title>
 
   <style type="text/css">
-    header {
-      margin: 0 20% 24px 20%;
-    }
-
-    body {
-      /* background:url(fon.png); */
-      background-attachment: fixed;
-      background-size: cover;
-    }
-
     .warrussia {
       font-size: 40px;
       font-family: "Times New Roman", Times, serif;
       line-height: 45px;
 
     }
-
-    .fontdesing {
+    header {
+      margin: 0 10% 24px 10%;
+    }
+    body {
+      background:url(fon.png);
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    .fontdesign {
       font-size: 20px;
       font-family: "Times New Roman", Times, serif;
       line-height: 30px;
     }
-
     .p1 {
       border: 3px solid black; 
       padding: 5px; 
-      width: 38.5%;
+      width: 75%;
       margin: auto;
       background: white;
       text-align: center;
-      margin-bottom: 30px;
+      margin-bottom: 24px;
     }
-
     .p2 {
       border: 0px solid white; 
       padding: 5px; 
-      width: 62%;
+      width: 80%;
       margin: auto;
       background: #FFFFFF;
       color: #000000;
@@ -56,34 +43,43 @@
       border-radius: 6px;
       padding: 2%;
       text-align: center;
-      margin-bottom: 30px;
+      margin-bottom: 24px;
     }
-
-    hr {
-      border: 2;
-      color: #777777;
-      width:80%;
-      margin:0 10% 12px;
+    .langs {
+      margin:0px;
+      padding:0px;
+      font-size:14px;
+      font-family: "Times New Roman", Times, serif;
+      vertical-align: middle;
     }
+    .nowar {
+      font-size: 40px;
+      color: red;
+      margin-top: 42px;
+    }
+</style>
+</head>
 
-    a {
-      text-decoration: none;
-      font-family: Arial;
-      color: darkblue;
-      cursor: default;
-      font-size: 15px;
-      line-height: 5px;
-    } 
+<meta name="viewport" content="width=device-width, initial-scale=0.8">
+<center><img src="../assets/voices_in_korea.jpg" height="200"></center>
 
-    a:hover { 
-      text-decoration: none;
-      color: gold;
-      cursor: default;
-    } 
-  </style>
+
+<body>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@900&display=swap" rel="stylesheet">
+
+  <div class="p2"><div data-aos="fade-down"><div class="warrussia">
+    <!-- <p><b><center>{{ page.title }} РОССИЯНЕ ПРОТИВ ВОЙНЫ</center></b></p> -->
+    <p><b><center>{{ page.title }}</center></b></p>
+  </div></div>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;900&display=swap" rel="stylesheet">
+
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
   <script src="aos.js"></script>
   <script>
@@ -92,42 +88,44 @@
     });
   </script>
 
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <div class="fontdesign">
+    <center>
+  <div data-aos="fade-down">  
+    <table border="0" width="65%">
+      <tr valign="middle">
+        <td width="30%">
+          <p align="left">
+            <a href="https://supportukrainenow.org/" target="_blank"><img src="../assets/help_en.png" height="52" /></a>
+            <!-- <a href="https://supportukrainenow.org/" target="_blank"><img src="{{}}../assets/help_ru.png" height="52" /></a> -->
+          </p>
+        </td>
+        <td width="auto">
+          <p align="right" class="langs">
+            <a href="https://www.voicesinkorea.kr/"><img src="../assets/kor_flag.png" height="32" alt="한국어" class="langs" />&nbsp;KO</a>&emsp;
+            <a href="https://www.voicesinkorea.kr/"><img src="../assets/new_flag.png" height="32" alt="Русский" class="langs" />&nbsp;RU</a>&emsp;
+            <a href="https://www.voicesinkorea.kr/en/"><img src="../assets/eng_flag.png" height="24" alt="English" class="langs" />&thinsp;EN</a>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+    </center>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  {% include head-custom.html %}
-</head>
+  <!-- <div class="p2"><div data-aos="fade-down">
+    <p><b>Мы</b> - инициативная группа россиян, выступающая против фашистского режима Владимира Путина в России и против действий этого режима.
+    <b>Мы</b> - за свободу и демократию в России.
+      
+    <p>Решения, принятые Путиным, нарушали и продолжают грубо нарушать международные законы. Самыми яркими примерами тому являются:
+    военный конфликт в Грузии, спровоцированный в 2008 году действиями России; аннексия Крыма в 2014 году; разжигание и поддержка
+    сепаратистского движения в Юго-Восточной части Украины, результатом которой стала затяжная война в Донбассе.</p>
+  </div></div> -->
 
-<center><img src="../assets/voices_in_korea.jpg" width="65%"></center>
+<!-- {{page.custom}} -->
 
-<body>
-  <!-- <style type="text/css">
-    .p2 {
-      border: 0px solid white; 
-      padding: 5px; 
-      width: 62%;
-      margin: auto;
-      background: #FFFFFF;
-      color: #000000;
-      display: block;
-      border-radius: 6px;
-      padding: 2%;
-      text-align: center;
-      margin-bottom: 30px;
-    }
+{{content}}
 
-  </style> -->
+<div class="nowar"><b><center>НЕТ ВОЙНЕ!</center></b></div>
 
-<div class="p2"><div data-aos="fade-down"><div class="warrussia">
-  <p><b><center>РОССИЯНЕ ПРОТИВ ВОЙНЫ</center></b></p>
-</div></div></div>
-
-<div class="fontdesing">
-  <section>
-    {{ content }}
-  </section>
 </div>
-
 </body>
 </html>
