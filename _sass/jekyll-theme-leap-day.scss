@@ -178,7 +178,7 @@ td {
 
 .bluebg {
   background: rgb(0, 87, 183);
-  color: #777777;
+  color: #f3f3f3;
 }
 
 hr {
@@ -197,7 +197,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 32px 20px;
+  padding: 25px 20px 24px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -235,26 +235,26 @@ header {
     -ms-text-overflow: ellipsis;
   }
 
-  a {
-    color:#dce4ee;
-    font-weight:400;
-    text-decoration:none;
-    font-family: "Times New Roman", Times, serif;
-  }
+  // a {
+  //   color:#dce4ee;
+  //   font-weight:400;
+  //   text-decoration:none;
+  //   font-family: "Times New Roman", Times, serif;
+  // }
   
-  table {
-    width: 590px;
-    margin-left: auto;
-    margin-right: auto;
-    // border-collapse:collapse;
-  }
+  // table {
+  //   width: 590px;
+  //   margin-left: auto;
+  //   margin-right: auto;
+  //   // border-collapse:collapse;
+  // }
 
-  p {
-    color: #d8d8d8;
-    text-shadow:rgba(#000, 0.2) 0 1px 0;
-    font-size: 16px;
-    margin: 0px;
-  }
+  // p {
+  //   color: #d8d8d8;
+  //   text-shadow:rgba(#000, 0.2) 0 1px 0;
+  //   font-size: 16px;
+  //   margin: 0px;
+  // }
 }
 
 #banner {
