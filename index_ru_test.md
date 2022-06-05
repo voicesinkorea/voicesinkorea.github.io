@@ -3,6 +3,11 @@ layout: new_original_dont_edit
 permalink: /test/
 ---
 
+<div data-aos="fade-down"><div class="p2">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</div></div>
+
+
 <!-- <div class="p2">
 <table border="0">
   <tr valign="middle">
@@ -57,7 +62,7 @@ permalink: /test/
   </tr>
 </table> -->
 
-<div class="p2"><div data-aos="fade-right">
+<!-- <div class="p2"><div data-aos="fade-right">
 В России войну в Украине позорно именуют “специальной операцией по защите русскоязычного населения Украины”. Тех россиян, кто не согласен с этим, арестовывают - за то, что они называют эту войну войной, за то, что они протестуют и говорят “НЕТ ВОЙНЕ” и “НЕТ ФАШИЗМУ”.
 </div></div>
 
@@ -73,7 +78,7 @@ permalink: /test/
 <div data-aos="zoom-out">
 <div class="p1">
 С начала войны в Украине на территории России задержано более 15 тысяч человек (<a href="https://ovdinfo.org/">ОВД-Инфо</a>), и их число только растет.
-</div></div>
+</div></div> -->
 
 <!-- <table class="fact">
   <tr>
@@ -81,7 +86,7 @@ permalink: /test/
   </tr>
 </table> -->
 
-<div class="p2"><div data-aos="fade-right">
+<!-- <div class="p2"><div data-aos="fade-right">
 Свободы слова в России при Путине не существует, практически все оппозиционные СМИ были вынуждены покинуть страну либо прекратить свою деятельность. Россия при Путине - это диктаторский режим, страна, в которой за мнение, сказанное политиком, журналистом или обычным человеком, можно сесть в тюрьму, быть отравленным или убитым. Широкую огласку по всему миру получили убийства А. Литвиненко, А. Политковской, А. Бабуровой, Б. Немцова, отравления Скрипалей, В.Кара-Мурзы и А. Навального.
 </div></div>
 
@@ -119,4 +124,4 @@ permalink: /test/
     margin-top: 50px;
   }
 </style>
-<div class="nowar"><b><center>НЕТ ВОЙНЕ!</center></b></div></p> -->
+<div class="nowar"><b><center>НЕТ ВОЙНЕ!</center></b></div></p> --> -->
