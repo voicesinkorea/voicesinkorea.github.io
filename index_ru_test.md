@@ -3,30 +3,8 @@ layout: new
 permalink: /test/
 ---
 
-
-<!-- <table border="0">
-    <tr>
-      <td>
-        <p align="left">
-          <a href="https://supportukrainenow.org/">Помощь Украине
-          </a>
-          <br>
-          <a href="https://www.instagram.com/voicesinkorea/">
-            Наш Instagram <img src="https://user-images.githubusercontent.com/105092258/167867747-adbe270f-2c0d-48a5-87c1-bbd547b79e0b.png" width="28" height="28" />
-          </a>
-        </p>
-      </td>
-      <td width="25%">
-        <p align="center"><a href="https://www.voicesinkorea.kr/"><img src="../assets/kor_flag.png" height="32" alt="한국어" /><br>한국어</a></p>
-      </td>
-      <td width="10%">
-        <p align="center"><a href="https://www.voicesinkorea.kr/en/"><img src="../assets/usa_flag.png" height="32" alt="english" /><br>English</a></p>
-      </td>
-    </tr>
-</table> -->
-
-<center>
-<table border="0" width="63%">
+<div class="p2">
+<table border="0">
   <tr valign="middle">
     <td width="30%">
       <a href="https://supportukrainenow.org/" target="_blank">
@@ -42,12 +20,16 @@ permalink: /test/
     </td>
   </tr>
 </table>
-</center>
+</div>
 
+<div class="p2"><div data-aos="fade-down"><div class="warrussia"><p><b>
+  <center>РОССИЯНЕ ПРОТИВ ВОЙНЫ</center></b></p>
+</div></div></div>
 
-<!-- <p align="center"><b>Россияне против войны</b></p> -->
+<div data-aos="fade-down">
 <b>Мы</b> - инициативная группа россиян в Южной Корее, выступающая против фашистского режима Владимира Путина в России и против действий этого режима.<br>
 <b>Мы</b> - за свободу и демократию в России.
+<div>
 
 Решения, принятые Путиным, нарушали и продолжают грубо нарушать международные законы. Самыми яркими примерами тому являются: военный конфликт в Грузии, спровоцированный в 2008 году действиями России; аннексия Крыма в 2014 году; разжигание и поддержка сепаратистского движения в Юго-Восточной части Украины, результатом которой стала затяжная война в Донбассе.
 
