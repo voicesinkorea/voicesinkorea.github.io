@@ -1,9 +1,9 @@
 ---
-layout: new
+layout: new_original_dont_edit
 permalink: /test/
 ---
 
-<div class="p2">
+<!-- <div class="p2">
 <table border="0">
   <tr valign="middle">
     <td width="30%">
@@ -119,6 +119,4 @@ permalink: /test/
     margin-top: 50px;
   }
 </style>
-<div class="nowar"><b><center>НЕТ ВОЙНЕ!</center></b></div></p>
-<!-- 
-<p class="nowar"><b>НЕТ ВОЙНЕ!</b></p> -->
+<div class="nowar"><b><center>НЕТ ВОЙНЕ!</center></b></div></p> -->
