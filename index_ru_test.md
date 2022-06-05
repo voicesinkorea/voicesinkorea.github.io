@@ -1,6 +1,7 @@
 ---
 layout: new_original_dont_edit
 permalink: /test/
+title: РОССИЯНЕ ПРОТИВ ВОЙНЫ
 ---
 
 <div data-aos="fade-down"><div class="p2">
