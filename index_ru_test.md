@@ -1,6 +1,6 @@
 ---
 layout: new
-permalink: /test/
+permalink: /test_old/
 title: РОССИЯНЕ ПРОТИВ ВОЙНЫ
 custom: something
 ---

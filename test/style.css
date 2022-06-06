@@ -1,0 +1,39 @@
+
+    warrussia {
+      font-size: 40px;
+      font-family: Noto Sans, sans-serif;
+      line-height: 45px;
+
+    }
+
+    fontdesing {
+      font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+      line-height: 30px;
+    }
+
+    p1 {
+ border: 3px solid black; 
+ padding: 5px; 
+ width: 85%;
+ margin: auto;
+ text-align: center;
+}
+
+    p2 {
+ border: solid white;
+ width: 90%;
+ margin: auto;
+   background: white;
+   font-color: black;
+  display: block;
+  border-radius: 6px;
+  padding: 2%;
+}
+
+nowar {
+    font-size: 40px;
+    color: #DB0808;
+    margin-top: 50px;
+  }
+
