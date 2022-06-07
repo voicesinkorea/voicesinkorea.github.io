@@ -17,12 +17,6 @@
     </td>
   </tr>
 </table>
-<!--<p align="right">
-<a href="https://www.voicesinkorea.kr">
-  <img src="../assets/new_flag.png" height="32" alt="Версия на русском" /> русский
-</a>
-</p>
--->
 
 <p align="center"><b>전쟁에 반대하는 러시아 사람들의 모임</b></p>
 
