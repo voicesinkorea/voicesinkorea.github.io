@@ -27,7 +27,7 @@ custom: something
 <div class="p1">
 <p></p>
 <p><b>Более 14 миллионов украинцев</b> были вынуждены покинуть свои дома (<a href="https://reliefweb.int/report/ukraine/statement-amin-awad-assistant-secretary-general-and-united-nations-crisis-coordinator-ukraine-marking-100-days-onset-russian-invasion-ukraine-24-february#:~:text=In%20just%20over%20three%20months,future%20hangs%20in%20the%20balance." target="_blank">ООН</a>).
-Многие из них незаконно депортированы на территорию России, часто без документов и денег. Среди депортированных немало детей, оставшихся без родителей.
+Многие из них незаконно депортированы на территорию России, часто без документов и денег. Среди депортированных немало детей, оставшихся без родителей.</p>
 <p></p>
 </div><p></p>
 

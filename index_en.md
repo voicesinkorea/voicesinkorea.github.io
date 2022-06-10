@@ -22,7 +22,7 @@ permalink: /en/
 <div class="p1">
 <p></p>
 <p><b>More than 14 million Ukrainians</b> have been forced to flee their homes (<a href="https://reliefweb.int/report/ukraine/statement-amin-awad-assistant-secretary-general-and-united-nations-crisis-coordinator-ukraine-marking-100-days-onset-russian-invasion-ukraine-24-february#:~:text=In%20just%20over%20three%20months,future%20hangs%20in%20the%20balance." target="_blank">UN</a>).
-Many of them were illegally deported to Russia, often without any means to support themselves. Many of these deportees are kids, left without parents.
+Many of them were illegally deported to Russia, often without any means to support themselves. Many of these deportees are kids, left without parents.</p>
 <p></p>
 </div><p></p>
 
