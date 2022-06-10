@@ -3,12 +3,10 @@ layout: new
 permalink: /en/
 ---
 
-<div data-aos="fade-down">
-<div data-aos="fade-down">
 <p><b>We</b> are a group of Russian activists speaking against the fascist regime currently spearheaded by Vladimir Putin. We speak in protest of this regime’s ongoing crimes.<br>
-<b>We</b> seek democracy and freedom for Russians.
+<b>We</b> seek democracy and freedom for Russians.</p>
 
-<p>Putin’s actions have repeatedly violated international law and continue to do so. Some of the worst instances include the military conflict in Georgia, provoked by the Russian government in 2008; the annexation of Crimea in 2014; and the support & exacerbation of the separatist movement in southeast Ukraine, which has led to a prolonged war in Donbas.</p></p>
+<p>Putin’s actions have repeatedly violated international law and continue to do so. Some of the worst instances include the military conflict in Georgia, provoked by the Russian government in 2008; the annexation of Crimea in 2014; and the support & exacerbation of the separatist movement in southeast Ukraine, which has led to a prolonged war in Donbas.</p>
 
 <hr>
 <center>
@@ -31,7 +29,7 @@ Many of them were illegally deported to Russia, often without any means to suppo
 
 
 <div class="p1">
-<p><center>Since the beginning of the war in Ukraine, <b>over 15 thousand protestors have been arrested in Russia</b> (<a href="https://ovdinfo.org/" target="_blank">ОВД-Инфо</a>),
+<p><center>Since the beginning of the war in Ukraine, <b>over 15 thousand protestors have been arrested in Russia</b> (<a href="https://ovdinfo.org/" target="_blank">OVD-Info</a>),
 and the number continues to grow.</center></p>
 <p></p></div>
 
@@ -55,9 +53,9 @@ Freedom of speech does not exist under Putin’s regime. Nearly all opposition m
 </div><p></p>
 
 
-<div data-aos="fade-down"><p>
+<p>
 We believe Vladimir Putin’s actions to be criminal and inhumane. In his hands, Russia has become a criminal fascist regime that poses a serious threat to the rest of the world.
-</p></div>
+</p>
 
 
 <hr>
@@ -68,15 +66,14 @@ We believe Vladimir Putin’s actions to be criminal and inhumane. In his hands,
 <hr>
 
 
-<div data-aos="fade-down">
 <p>
-The white and blue flag ⚪️🔵⚪️ rose to prominence as a symbol of freedom and democracy for <b>Russians</b> that oppose this regime – we bring it to our meetings and demonstrations. More information about the flag can be found on the <a href="https://whitebluewhite.info/english">dedicated website</a>.
+The white and blue flag ⚪️🔵⚪️ rose to prominence as a symbol of freedom and democracy for <b>Russians</b> that oppose this regime – we bring it to our meetings and demonstrations. More information about the flag can be found on the <a href="https://whitebluewhite.info/english" target="_blank">dedicated website</a>.
 </p>
 
 <p>
-The most recent meeting announcements & other information can be found on our <a href="https://www.instagram.com/voicesinkorea/">Instagram</a>.
+The most recent meeting announcements & other information can be found on our <a href="https://www.instagram.com/voicesinkorea/" target="_blank">Instagram</a>.
 </p>
 
 <div class="nowar">
-<b><center><p></p>NO WAR!<br>НЕТ ВОЙНЕ!</center></b>
+<b><center><p></p>NO WAR!</center></b>
 </div><p></p>
