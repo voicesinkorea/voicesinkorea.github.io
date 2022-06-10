@@ -6,6 +6,9 @@ permalink: /news/
 <p><b>We</b> are a group of Russian activists speaking against the fascist regime currently spearheaded by Vladimir Putin. We speak in protest of this regime’s ongoing crimes.<br>
 <b>We</b> seek democracy and freedom for Russians.</p>
 
+<p><a href="https://m.yna.co.kr/view/AKR20220424036800004?section=society/all" target="_blank">"우크라이나에 평화를"…휴일 서울 도심 곳곳서 반전 행진</a></p>
+
+
 <p>Putin’s actions have repeatedly violated international law and continue to do so. Some of the worst instances include the military conflict in Georgia, provoked by the Russian government in 2008; the annexation of Crimea in 2014; and the support & exacerbation of the separatist movement in southeast Ukraine, which has led to a prolonged war in Donbas.</p>
 
 <hr>
@@ -15,9 +18,11 @@ permalink: /news/
 </center>
 <hr>
 
+<p><a href="https://m.yna.co.kr/view/AKR20220424036800004?section=society/all" target="_blank">"우크라이나에 평화를"…휴일 서울 도심 곳곳서 반전 행진</a></p>
+
 <h1><i>연합뉴스</i></h1>
 
-    <p><a href="https://m.yna.co.kr/view/AKR20220424036800004?section=society/all" target="_blank">"우크라이나에 평화를"…휴일 서울 도심 곳곳서 반전 행진</a></p>
+<p><a href="https://m.yna.co.kr/view/AKR20220424036800004?section=society/all" target="_blank">"우크라이나에 평화를"…휴일 서울 도심 곳곳서 반전 행진</a></p>
     <p><a href="https://m.yna.co.kr/view/IPT20220312000007365?input=kkt" target="_blank">'전쟁중단'…우크라이나 침공 중단 촉구하는 주한 러시안인들</a></p>
     <p><a href="https://n.news.naver.com/article/001/0013031178" target="_blank">우크라이나, 벨라루스 국기 사이 러시아 어린이</a></p>
     <p><a href="https://n.news.naver.com/article/001/0013031188" target="_blank">푸틴 규탄하는 러시아,벨라루스 참가자들</a></p>
@@ -116,4 +121,5 @@ permalink: /news/
     <li><a href="https://supportukrainenow.org/" target="_blank">SUPPORT UKRAINE NOW</a></li>
     <li><a href="https://www.voicesinkorea.kr/news">N E W S</a></li>
     <li><a href="https://www.voicesinkorea.kr/contact">CONTACT US</a></li>
+    </center>
 </ul>
