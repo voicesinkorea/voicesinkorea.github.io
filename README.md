@@ -23,7 +23,7 @@ permalink: /
 
 <div class="p1">
 <p></p>
-<p><b>1,400만명이 넘는 우크라이나인들은</b> 자신의 집을 떠나야 했습니다 (<a href="https://reliefweb.int/report/ukraine/statement-amin-awad-assistant-secretary-general-and-united-nations-crisis-coordinator-ukraine-marking-100-days-onset-russian-invasion-ukraine-24-february#:~:text=In%20just%20over%20three%20months,future%20hangs%20in%20the%20balance." target="_blank">UN</a>).
+<p><b>1400만명이 넘는 우크라이나인들은</b> 자신의 집을 떠나야 했습니다 (<a href="https://reliefweb.int/report/ukraine/statement-amin-awad-assistant-secretary-general-and-united-nations-crisis-coordinator-ukraine-marking-100-days-onset-russian-invasion-ukraine-24-february#:~:text=In%20just%20over%20three%20months,future%20hangs%20in%20the%20balance." target="_blank">UN</a>).
 이중 많은 사람들은 어떠한 서류나 생활비조차 주어지지 않은채 불법적으로 러시아에 강제이주되었습니다. 강제이주된 사람들 중에서는 부모와 생이별한 아이들도 적지 않습니다.</p>
 <p></p>
 </div><p></p>
@@ -34,7 +34,7 @@ permalink: /
 </p>
 
 <div class="p1">
-<p><center>우크라이나 전쟁 발발과 동시에 <b>러시아에서는 15,000명이 넘는 사람들이 구금 되었으며</b> (<a href="https://ovdinfo.org/" target="_blank">OVD-Info</a>),
+<p><center>우크라이나 전쟁 발발과 동시에 <b>러시아에서는 15 000 명이 넘는 사람들이 구금 되었으며</b> (<a href="https://ovdinfo.org/" target="_blank">OVD-Info</a>),
 현재도 구속자 수는 점점 증가하고 있습니다.</center></p>
 <p></p></div>
 
