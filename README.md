@@ -77,10 +77,6 @@ permalink: /
 우리가 주관하는 시위에 관한 정보는 <a href="https://www.instagram.com/voicesinkorea/" target="_blank">인스타그램</a>에서 찾으실 수 있습니다.
 </p>
 
-<p>
-<a href="https://www.voicesinkorea.kr/news">NEWS</a>.
-</p>
-
 <div class="nowar">
 <b><center><p></p>전쟁에 반대합니다!</center></b>
 </div><p></p>
