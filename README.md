@@ -1,5 +1,6 @@
 ---
 layout: new_menu
+permalink: /
 ---
 
 <p>
